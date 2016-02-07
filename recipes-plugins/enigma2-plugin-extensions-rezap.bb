@@ -18,7 +18,7 @@ inherit autotools-brokensep pythonnative
 PV = "1.0"
 PKGV = "1.0"
 
-SRC_URI = "file://wetek-plugin-rezap-20160131.tgz"
+SRC_URI = "file://wetek-plugin-rezap-20160207.tgz"
 
 S = "${WORKDIR}/ReZap"
 
